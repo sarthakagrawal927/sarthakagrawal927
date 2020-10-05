@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/sarthakagrawal927/git-badges)](https://badges.pufler.dev)
+
 <!--
 **sarthakagrawal927/sarthakagrawal927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
