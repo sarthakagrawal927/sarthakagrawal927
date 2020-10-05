@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/sarthakagrawal927/gittinder)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/sarthakagrawal927)](https://badges.pufler.dev)
 
 ## &#x1f4c8; GitHub Stats
 
