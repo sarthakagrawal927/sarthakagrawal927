@@ -14,4 +14,4 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-    <p>Let me know if you want to build something awesome</p>
+ Let me know if you want to build something awesome.
