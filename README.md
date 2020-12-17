@@ -1,4 +1,4 @@
-### Hi there I'm Sarthak👋
+<img src="header.svg" width="800" height="400">
 
 ## &#x1f4c8; GitHub Stats
 
@@ -10,8 +10,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakagrawal927&exclude_repo=PythonMagic&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<img src="tehc.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
- Let me know if you want to build something awesome.
+ Lets build some cool shit together.
