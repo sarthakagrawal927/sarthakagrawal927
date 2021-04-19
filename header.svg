@@ -71,14 +71,14 @@
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 				p {
-					font-size: 20px;
+					font-size: 21px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 5s ease-in 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
-				<h1>Hi there !</h1>
-				<p>Nice to meet ya !</p>
+				<h1>Hi there!</h1>
+				<p>Let's create something!</p>
 			</div>
 		</div>
 	</foreignObject>
