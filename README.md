@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/sarthakagrawal927/sarthakagrawal927">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakagrawal927&theme=dark&icons=true&hide=stars,issues&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakagrawal927&theme=dark&icons=true&hide=issues&count_private=true&count_fork=true" />
 </a>
 
 <a href="https://github.com/sarthakagrawal927/sarthakagrawal927">
