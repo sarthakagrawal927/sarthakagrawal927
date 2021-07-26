@@ -20,8 +20,5 @@
 <br>
 <br>
 
-<a href="https://github.com/sarthakagrawal927/sarthakagrawal927">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakagrawal927&layout=compact&theme=dark&custom_title=Last Week&langs_count=6&hide_border=true" />
-</a>
-  
+
 
