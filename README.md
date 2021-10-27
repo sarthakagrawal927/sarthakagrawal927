@@ -3,7 +3,7 @@
 
 ## &#x1f4c8; Contribution Stats
 
-[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakagrawal927&theme=react-dark)](https://github.com/sarthakagrawal927)
+[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakagrawal927&theme=react-dark&include_forks=true)](https://github.com/sarthakagrawal927)
 
 ## &#x1f4c8; GitHub Stats 
 
