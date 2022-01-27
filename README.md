@@ -1,10 +1,6 @@
 
 <img src="header.svg" width="100%">
 
-## &#x1f4c8; Contribution Stats
-
-[![Sarthak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarthakagrawal927&theme=react-dark&include_forks=true)](https://github.com/sarthakagrawal927)
-
 ## &#x1f4c8; GitHub Stats 
 
 <img src='https://komarev.com/ghpvc/?username=sarthakagrawal927&style=flat-square&label=PROFILE+VIEWS&color=ad03fc' alt='🌫' />
