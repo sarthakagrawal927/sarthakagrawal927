@@ -11,5 +11,5 @@
  </a>
 
 <a href="https://github.com/sarthakagrawal927">
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakagrawal927&exclude_repo=Python_Adventures,5th-sem-cse,iOS_Dev&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakagrawal927&exclude_repo=Python_Adventures,5th-sem-cse&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
  </a>
