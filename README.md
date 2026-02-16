@@ -1,6 +1,3 @@
-
-<img src="header.svg" width="100%">
-
 ## About Me
 
 I'm a software engineer who likes building things across the stack — web apps, mobile apps, backend services, and developer tools.
