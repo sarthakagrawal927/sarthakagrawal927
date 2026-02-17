@@ -22,22 +22,12 @@
 - **[SQL Table Viewer](https://sql-table-viewer.vercel.app)** - Paste a schema, explore it visually
 - **[Status Pulse](https://status-pulse-web.vercel.app)** - Real-time service status monitoring dashboard
 - **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** - Dating app — Flutter, TypeScript backend, Astro landing page
-- **[Significant Hobbies](https://blogs.significanthobbies.com)** - Personal blog on philosophy, psychology & startups
 - **[Contest](https://github.com/sarthakagrawal927/contest)** - Real-time programming language popularity contest
 - **[Stock Health](https://stocks.significanthobbies.rocks)** - Stock health portal with analytics dashboard
 - **[GitTinder](https://github.com/sarthakagrawal927/GitTinder)** - Find developers to connect with — React, AWS, MongoDB
 - **[EasyLOR](https://github.com/sarthakagrawal927/EasyLOR)** - Letter of recommendation management platform
 - **[PlayWordle](https://github.com/sarthakagrawal927/PlayWordle)** - Wordle clone built in Go
 - **[Code Reviewer Action](https://github.com/sarthakagrawal927/code-reviewer-action)** - GitHub Action for automated code reviews
-
-## GitHub Stats
-
-<a href="https://github.com/sarthakagrawal927">
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=sarthakagrawal927&theme=radical&show_icons=true&count_private=true&hide_border=true&hide_title=true&line_height=29" />
-</a>
-<a href="https://github.com/sarthakagrawal927">
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakagrawal927&exclude_repo=Python_Adventures,5th-sem-cse&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
-</a>
 
 ## Connect
 
