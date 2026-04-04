@@ -9,12 +9,22 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 > I build full-stack products, developer tools, and occasionally games.
 
 ## Projects
 
+- **[NanoClaw](https://github.com/sarthakagrawal927/nanoclaw)** - Lightweight AI assistant platform for WhatsApp, Telegram, Slack, Discord, Gmail — TypeScript, Claude Agent SDK, Docker
+- **[CodeVetter](https://github.com/sarthakagrawal927/CodeVetter)** - AI code review for agent-generated code — Tauri (Rust + React), TypeScript
+- **[Reel Maker](https://github.com/sarthakagrawal927/reel-maker)** - AI-powered TikTok/Reels video generator — Remotion, OpenAI, ElevenLabs
+- **[Starboard](https://github.com/sarthakagrawal927/starboard)** - Organize and filter your GitHub starred repos — Next.js, Turso
+- **[Email Manager](https://github.com/sarthakagrawal927/email-manager)** - Gmail client with browse, search, compose, and unsubscribe — Next.js, NextAuth, Gmail API
+- **[Port Whisperer](https://github.com/sarthakagrawal927/port-whisperer)** - Developer-friendly port scanner with framework detection — Rust
+- **[Chess](https://play-chess-ai.vercel.app)** - AI-coached chess game — TypeScript, Vite
+- **[Ludo](https://ludo.vercel.app)** - Classic Ludo board game as a mobile-first PWA — TypeScript, Vite
+- **[LinkChat](https://github.com/sarthakagrawal927/linkchat)** - Chat app — Next.js, Drizzle, Cloudflare Workers
 - **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** - Dating app — Flutter, TypeScript backend, Astro landing page
 - **[Productivity Suite](https://github.com/sarthakagrawal927/productivity-backend)** - Full-stack productivity app — Go backend, TypeScript frontend
 - **[Stock Health](https://stocks.significanthobbies.rocks)** - Stock health portal with analytics dashboard
