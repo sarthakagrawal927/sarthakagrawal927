@@ -15,6 +15,19 @@
 
 ## Projects
 
+- **[Resume Tailor](https://github.com/sarthakagrawal927/resume-tailor)** - LaTeX resume editor with AI-powered job tailoring and cover letter generation
+- **[Significant Hobbies](https://github.com/sarthakagrawal927/significanthobbies)** - Map your hobby journey across life phases — discover insights and find what to explore next
+- **[Email Manager](https://github.com/sarthakagrawal927/email-manager)** - Gmail manager — Next.js + NextAuth + Gmail API. Browse, search, compose, unsubscribe
+- **[Starboard](https://github.com/sarthakagrawal927/starboard)** - Organize and filter your GitHub starred repos
+- **[Chess](https://github.com/sarthakagrawal927/chess)** - AI-coached chess game
+- **[Reel Maker](https://github.com/sarthakagrawal927/reel-maker)** - AI-powered TikTok/Reels video generator built on Remotion
+- **[LoopTV](https://github.com/sarthakagrawal927/looptv)** - TV-like random YouTube player with 13 stations and 36K quality-filtered videos
+- **[Port Whisperer](https://github.com/sarthakagrawal927/port-whisperer)** - Developer-friendly port scanner with framework detection — Rust
+- **[NanoClaw](https://github.com/sarthakagrawal927/nanoclaw)** - Containerized messaging agent on Anthropic's Agents SDK — WhatsApp, Telegram, Slack, Discord, Gmail
+- **[Agent Resume](https://github.com/sarthakagrawal927/agent-resume)** - Auto-resume Claude Code through rate limits with model cascading and agent fallback
+- **[Ludo Pass & Play](https://github.com/sarthakagrawal927/ludo-pass-play)** - Classic Ludo board game as a mobile-first PWA
+- **[MentionPilot](https://github.com/sarthakagrawal927/mentionpilot)** - Mention tracking and outreach automation
+- **[Clash Royale Meta](https://github.com/sarthakagrawal927/clash-royale-meta)** - Clash Royale meta tracker and deck analytics
 - **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** - Dating app — Flutter, TypeScript backend, Astro landing page
 - **[Productivity Suite](https://github.com/sarthakagrawal927/productivity-backend)** - Full-stack productivity app — Go backend, TypeScript frontend
 - **[Stock Health](https://stocks.significanthobbies.rocks)** - Stock health portal with analytics dashboard
