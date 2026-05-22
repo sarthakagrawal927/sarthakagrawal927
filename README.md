@@ -1,75 +1,61 @@
-# Hi, I'm Sarthak
+# Hi, I'm Sarthak 👋
 
-**India** | **Software Engineer** | **Builder & Writer**
+**India** · **AI Infrastructure & Product Engineer**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> I build full-stack products, developer tools, and occasionally games.
+> I build AI infrastructure and full-stack products — from LLM gateways and from-scratch model code to deployed, monetized apps. End to end, mostly solo.
 
-## Projects
+## 🤖 AI Infrastructure & Tooling
 
-- **[Resume Tailor](https://github.com/sarthakagrawal927/resume-tailor)** - LaTeX resume editor with AI-powered job tailoring and cover letter generation
-- **[Significant Hobbies](https://github.com/sarthakagrawal927/significanthobbies)** - Map your hobby journey across life phases — discover insights and find what to explore next
-- **[Email Manager](https://github.com/sarthakagrawal927/email-manager)** - Gmail manager — Next.js + NextAuth + Gmail API. Browse, search, compose, unsubscribe
-- **[Starboard](https://github.com/sarthakagrawal927/starboard)** - Organize and filter your GitHub starred repos
-- **[Chess](https://github.com/sarthakagrawal927/chess)** - AI-coached chess game
-- **[Reel Maker](https://github.com/sarthakagrawal927/reel-maker)** - AI-powered TikTok/Reels video generator built on Remotion
-- **[LoopTV](https://github.com/sarthakagrawal927/looptv)** - TV-like random YouTube player with 13 stations and 36K quality-filtered videos
-- **[Port Whisperer](https://github.com/sarthakagrawal927/port-whisperer)** - Developer-friendly port scanner with framework detection — Rust
-- **[NanoClaw](https://github.com/sarthakagrawal927/nanoclaw)** - Containerized messaging agent on Anthropic's Agents SDK — WhatsApp, Telegram, Slack, Discord, Gmail
-- **[Agent Resume](https://github.com/sarthakagrawal927/agent-resume)** - Auto-resume Claude Code through rate limits with model cascading and agent fallback
-- **[Ludo Pass & Play](https://github.com/sarthakagrawal927/ludo-pass-play)** - Classic Ludo board game as a mobile-first PWA
-- **[MentionPilot](https://github.com/sarthakagrawal927/mentionpilot)** - Mention tracking and outreach automation
-- **[Clash Royale Meta](https://github.com/sarthakagrawal927/clash-royale-meta)** - Clash Royale meta tracker and deck analytics
-- **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** - Dating app — Flutter, TypeScript backend, Astro landing page
-- **[Productivity Suite](https://github.com/sarthakagrawal927/productivity-backend)** - Full-stack productivity app — Go backend, TypeScript frontend
-- **[Stock Health](https://stocks.significanthobbies.rocks)** - Stock health portal with analytics dashboard
-- **[Open Historia](https://open-historia.vercel.app)** - AI-powered grand strategy game spanning human history
-- **[Video Pilot](https://github.com/sarthakagrawal927/video-pilot-web)** - Video management tool in TypeScript
-- **[SWE Interview Prep](https://swe-interview-prep.vercel.app)** - Interactive DSA prep studio
-- **[Reader](https://blog-reader.vercel.app/)** - Minimal blog reader
-- **[Agent Mode](https://agent-mode.vercel.app)** - AI agent mode experiments
-- **[GitTinder](https://github.com/sarthakagrawal927/GitTinder)** - Find developers to connect with — React, AWS, MongoDB
-- **[Status Pulse](https://status-pulse-web.vercel.app)** - Real-time service status monitoring dashboard
-- **[Streamer](https://github.com/sarthakagrawal927/streamer-web)** - Video streaming platform — React frontend, Node.js backend
-- **[EasyLOR](https://github.com/sarthakagrawal927/EasyLOR)** - Letter of recommendation management platform
-- **[Code Reviewer Action](https://github.com/sarthakagrawal927/code-reviewer-action)** - GitHub Action for automated code reviews
-- **[PlacementPortal](https://github.com/sarthakagrawal927/PlacementPortal)** - Campus placement management platform
-- **[Location Tracker](https://github.com/sarthakagrawal927/location-tracker-app)** - Real-time location tracking — Flutter app, TypeScript server
-- **[SQL Table Viewer](https://sql-table-viewer.vercel.app)** - Paste a schema, explore it visually
-- **[Tree](https://familytree-mu.vercel.app)** - Interactive family tree visualizer
-- **[Documenter](https://documenter.vercel.app)** - Browser-based code sandbox and documentation tool
-- **[Face Match](https://github.com/sarthakagrawal927/py_face_match)** - Face matching tool in Python
-- **[Microservice Blog](https://github.com/sarthakagrawal927/microservice-blog)** - Blog built with microservices architecture
-- **[MusicDnD](https://music-dn-d.vercel.app)** - Drag-and-drop music playlist builder
-- **[Contest](https://github.com/sarthakagrawal927/contest)** - Real-time programming language popularity contest
-- **[Covid Dash](https://covid-dash-inky.vercel.app/)** - COVID dashboard with interactive charts and maps
-- **[Shop Dash](https://github.com/sarthakagrawal927/shop-dash)** - Category and item management dashboard — React, Immer
-- **[Ecommerce](https://github.com/sarthakagrawal927/ecommerce_backend)** - Full-stack ecommerce platform — Go backend, TypeScript frontend
-- **[Maps](https://github.com/sarthakagrawal927/maps-client)** - Interactive maps app — TypeScript client and server
-- **[PlayWordle](https://github.com/sarthakagrawal927/PlayWordle)** - Wordle clone built in Go
-- **[Animax](https://animax-nine.vercel.app)** - Anime discovery app
-- **[Click vs Elastic](https://github.com/sarthakagrawal927/click_vs_elastic)** - ClickHouse vs Elasticsearch benchmark comparison in Go
-- **[Performance](https://github.com/sarthakagrawal927/performance)** - Multi-device performance monitor — React, Socket.io
-- **[FlashSurvey](https://github.com/sarthakagrawal927/FlashSurvey)** - Survey platform — MERN, Google Auth, Stripe, SendGrid
-- **[GoMovies](https://github.com/sarthakagrawal927/GoMovies)** - Movie catalog app in Go
-- **[Storytunes](https://github.com/sarthakagrawal927/storytunes-backend)** - Story-driven music experience — Go backend
-- **[Temp Splitwise](https://github.com/sarthakagrawal927/temp-splitwise)** - Use-and-throw expense splitter in Python
-- **[AI Badges](https://ai-percentage-pin.vercel.app)** - GitHub README badges for AI project transparency
-- **[Blog Pro](https://github.com/sarthakagrawal927/blog-pro)** - Blog engine — React, GraphQL, Socket.io
-- **[Box](https://boxing-dusky.vercel.app/)** - Boxing combo practice app with variable speed
-- **[Slack Clone](https://github.com/sarthakagrawal927/slack-kid-clone)** - Slack clone built with Socket.io
-- **[Web3 Init](https://github.com/sarthakagrawal927/web3_init)** - Web3 experiments in TypeScript
-- **[Tickets](https://github.com/sarthakagrawal927/Tickets)** - Ticketing system in TypeScript
-- **[Blockchain](https://github.com/sarthakagrawal927/blockchain)** - Blockchain implementation from scratch in JavaScript
-- **[Serverless](https://github.com/sarthakagrawal927/serverless)** - Serverless functions in Go
+- **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers — multi-provider routing, D1, Durable Objects, Workers AI.
+- **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — GPT built from scratch three ways: PyTorch reference, C++ compiled to WebAssembly, and a WebGPU training loop.
+- **[high-signal](https://github.com/sarthakagrawal927/high-signal)** — Evidence-backed, versioned signal log for the AI-infra & semiconductor industry — multi-worker pipeline on D1 with scheduled ingestion.
+- **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resumes Claude Code through rate limits with model cascading and agent fallback.
+
+## 🚀 Full-Stack Products
+
+- **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps (feedback, waitlist, analytics, AI gateway, and more). Hono on Workers, D1, R2; SDK + API + dashboard. · [live](https://sassmaker.com)
+- **[CodeVetter](https://github.com/sarthakagrawal927/CodeVetter)** — AI code-review desktop app — Tauri (Rust + React) with a local SQLite store. · [live](https://codevetter.com)
+- **[swe-interview-prep](https://github.com/sarthakagrawal927/swe-interview-prep)** — Interactive DSA & system-design prep studio — spaced repetition, multi-provider AI, in-browser editor.
+- **[reader](https://github.com/sarthakagrawal927/reader)** — Read-it-later and AI annotation workspace — Next.js on Workers, R2 storage, bring-your-own-key AI.
+- **[truehire](https://github.com/sarthakagrawal927/truehire)** — A verified-candidate layer for hiring — costly signals over AI-tailored resumes.
+- **[resume-tailor](https://github.com/sarthakagrawal927/resume-tailor)** — AI resume tailoring and cover-letter generation from a job link. · [live](https://rolepatch.com)
+- **[significanthobbies](https://github.com/sarthakagrawal927/significanthobbies)** — Map your hobby journey across life phases and discover what to explore next. · [live](https://significanthobbies.com)
+- **[linkchat](https://github.com/sarthakagrawal927/linkchat)** — Link-in-bio platform with AI-powered profile modes — chat, encyclopedia, roast.
+- **[anime_list](https://github.com/sarthakagrawal927/anime_list)** — Anime tracker — Next.js frontend with a Hono API and scheduled data syncs.
+
+## 🧪 More Products & Experiments
+
+- **[email-manager](https://github.com/sarthakagrawal927/email-manager)** — Privacy-first Gmail manager — semantic search runs entirely in the browser.
+- **[everythingrated](https://github.com/sarthakagrawal927/everythingrated)** — Rate anything — anonymous, login-free ratings on Cloudflare D1.
+- **[open-historia](https://github.com/sarthakagrawal927/open-historia)** — AI-powered grand-strategy game played through natural language.
+- **[ai-game](https://github.com/sarthakagrawal927/ai-game)** — AI world simulator with an Unreal-first 3D game client.
+- **[reel-maker](https://github.com/sarthakagrawal927/reel-maker)** — AI-powered TikTok/Reels video generator built on Remotion.
+- **[looptv](https://github.com/sarthakagrawal927/looptv)** — TV-like random YouTube player — 13 stations, 36K quality-filtered videos.
+- **[today-little-log](https://github.com/sarthakagrawal927/today-little-log)** — Minimal daily-logging PWA.
+- **[starboard](https://github.com/sarthakagrawal927/starboard)** — Organize, search, and filter your GitHub starred repos.
+- **[port-whisperer](https://github.com/sarthakagrawal927/port-whisperer)** — Developer-friendly port scanner with framework detection — written in Rust.
+- **[status-pulse](https://github.com/sarthakagrawal927/status-pulse-web)** — Uptime and status-page monitoring dashboard.
+
+## 🏗️ Earlier Full-Stack Work
+
+Multi-component products shipped before AI-assisted tooling — full-stack, mobile, and backend, hand-built.
+
+- **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** — Dating app — Flutter mobile client, TypeScript backend, Astro marketing site.
+- **[Productivity Suite](https://github.com/sarthakagrawal927/productivity-backend)** — Full-stack productivity app — Go backend (Echo), Next.js web, Flutter, Postgres.
+
+## ♟️ Just for Fun
+
+- **[PlayWordle](https://github.com/sarthakagrawal927/PlayWordle)** — Wordle clone written in Go.
 
 ## Connect
 
