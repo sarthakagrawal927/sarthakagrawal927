@@ -48,10 +48,12 @@
 
 ## 🏗️ Earlier Full-Stack Work
 
-Multi-component products shipped before AI-assisted tooling — full-stack, mobile, and backend, hand-built.
+Products built before AI-assisted tooling — full-stack, mobile, and backend, hand-written.
 
 - **[Stumble](https://github.com/sarthakagrawal927/stumble-app)** — Dating app — Flutter mobile client, TypeScript backend, Astro marketing site.
 - **[Productivity Suite](https://github.com/sarthakagrawal927/productivity-backend)** — Full-stack productivity app — Go backend (Echo), Next.js web, Flutter, Postgres.
+- **[GitTinder](https://github.com/sarthakagrawal927/GitTinder)** — Tinder-style platform to discover and connect with developers — React, Node.js, MongoDB, AWS.
+- **[EasyLOR](https://github.com/sarthakagrawal927/EasyLOR)** — Letter-of-recommendation request and management platform for students and faculty.
 
 ## ♟️ Just for Fun
 
