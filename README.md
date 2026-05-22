@@ -18,13 +18,13 @@
 
 - **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers — multi-provider routing, D1, Durable Objects, Workers AI. · [live](https://free-ai-gateway.sarthakagrawal927.workers.dev)
 - **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — GPT built from scratch three ways: PyTorch reference, C++ compiled to WebAssembly, and a WebGPU training loop.
-- **[high-signal](https://github.com/sarthakagrawal927/high-signal)** — Evidence-backed, versioned signal log for the AI-infra & semiconductor industry — multi-worker pipeline on D1 with scheduled ingestion. · [live](https://highsignal.app)
+- **[high-signal](https://github.com/sarthakagrawal927/high-signal)** — Evidence-backed, versioned signal log for the AI-infra & semiconductor industry — three Cloudflare Workers (web, API, annotation) over a D1 datastore with scheduled ingestion pipelines. · [live](https://highsignal.app)
 - **[CodeVetter](https://github.com/sarthakagrawal927/CodeVetter)** — AI code-review desktop app — Tauri (Rust + React) with a local SQLite store. · [live](https://codevetter.com)
 - **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resumes Claude Code through rate limits with model cascading and agent fallback.
 
 ## 🚀 Full-Stack Products
 
-- **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps (feedback, waitlist, analytics, AI gateway, and more). Hono on Workers, D1, R2; SDK + API + dashboard. · [live](https://sassmaker.com)
+- **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps — feedback, waitlist, analytics, AI gateway, and more. Multi-worker Cloudflare architecture with CockroachDB (via Hyperdrive), D1, and R2; ships an SDK, API, and dashboard. · [live](https://sassmaker.com)
 - **[swe-interview-prep](https://github.com/sarthakagrawal927/swe-interview-prep)** — Interactive DSA & system-design prep studio — spaced repetition, multi-provider AI, in-browser editor. · [live](https://swe-interview-prep.pages.dev)
 - **[reader](https://github.com/sarthakagrawal927/reader)** — Read-it-later and AI annotation workspace — Next.js on Workers, R2 storage, bring-your-own-key AI. · [live](https://reader.sarthakagrawal927.workers.dev)
 - **[truehire](https://github.com/sarthakagrawal927/truehire)** — A verified-candidate layer for hiring — costly signals over AI-tailored resumes. · [live](https://truehire.sarthakagrawal927.workers.dev)
