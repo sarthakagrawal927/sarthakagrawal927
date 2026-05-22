@@ -16,33 +16,33 @@
 
 ## 🤖 AI Infrastructure & Tooling
 
-- **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers — multi-provider routing, D1, Durable Objects, Workers AI.
+- **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers — multi-provider routing, D1, Durable Objects, Workers AI. · [live](https://free-ai-gateway.sarthakagrawal927.workers.dev)
 - **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — GPT built from scratch three ways: PyTorch reference, C++ compiled to WebAssembly, and a WebGPU training loop.
-- **[high-signal](https://github.com/sarthakagrawal927/high-signal)** — Evidence-backed, versioned signal log for the AI-infra & semiconductor industry — multi-worker pipeline on D1 with scheduled ingestion.
+- **[high-signal](https://github.com/sarthakagrawal927/high-signal)** — Evidence-backed, versioned signal log for the AI-infra & semiconductor industry — multi-worker pipeline on D1 with scheduled ingestion. · [live](https://highsignal.app)
+- **[CodeVetter](https://github.com/sarthakagrawal927/CodeVetter)** — AI code-review desktop app — Tauri (Rust + React) with a local SQLite store. · [live](https://codevetter.com)
 - **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resumes Claude Code through rate limits with model cascading and agent fallback.
 
 ## 🚀 Full-Stack Products
 
 - **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps (feedback, waitlist, analytics, AI gateway, and more). Hono on Workers, D1, R2; SDK + API + dashboard. · [live](https://sassmaker.com)
-- **[CodeVetter](https://github.com/sarthakagrawal927/CodeVetter)** — AI code-review desktop app — Tauri (Rust + React) with a local SQLite store. · [live](https://codevetter.com)
-- **[swe-interview-prep](https://github.com/sarthakagrawal927/swe-interview-prep)** — Interactive DSA & system-design prep studio — spaced repetition, multi-provider AI, in-browser editor.
-- **[reader](https://github.com/sarthakagrawal927/reader)** — Read-it-later and AI annotation workspace — Next.js on Workers, R2 storage, bring-your-own-key AI.
-- **[truehire](https://github.com/sarthakagrawal927/truehire)** — A verified-candidate layer for hiring — costly signals over AI-tailored resumes.
+- **[swe-interview-prep](https://github.com/sarthakagrawal927/swe-interview-prep)** — Interactive DSA & system-design prep studio — spaced repetition, multi-provider AI, in-browser editor. · [live](https://swe-interview-prep.pages.dev)
+- **[reader](https://github.com/sarthakagrawal927/reader)** — Read-it-later and AI annotation workspace — Next.js on Workers, R2 storage, bring-your-own-key AI. · [live](https://reader.sarthakagrawal927.workers.dev)
+- **[truehire](https://github.com/sarthakagrawal927/truehire)** — A verified-candidate layer for hiring — costly signals over AI-tailored resumes. · [live](https://truehire.sarthakagrawal927.workers.dev)
 - **[resume-tailor](https://github.com/sarthakagrawal927/resume-tailor)** — AI resume tailoring and cover-letter generation from a job link. · [live](https://rolepatch.com)
 - **[significanthobbies](https://github.com/sarthakagrawal927/significanthobbies)** — Map your hobby journey across life phases and discover what to explore next. · [live](https://significanthobbies.com)
-- **[linkchat](https://github.com/sarthakagrawal927/linkchat)** — Link-in-bio platform with AI-powered profile modes — chat, encyclopedia, roast.
-- **[anime_list](https://github.com/sarthakagrawal927/anime_list)** — Anime tracker — Next.js frontend with a Hono API and scheduled data syncs.
+- **[linkchat](https://github.com/sarthakagrawal927/linkchat)** — Link-in-bio platform with AI-powered profile modes — chat, encyclopedia, roast. · [live](https://linkchat.sarthakagrawal927.workers.dev)
+- **[anime_list](https://github.com/sarthakagrawal927/anime_list)** — Anime tracker — Next.js frontend with a Hono API and scheduled data syncs. · [live](https://anime-list-9lk.pages.dev)
 
 ## 🧪 More Products & Experiments
 
-- **[email-manager](https://github.com/sarthakagrawal927/email-manager)** — Privacy-first Gmail manager — semantic search runs entirely in the browser.
-- **[everythingrated](https://github.com/sarthakagrawal927/everythingrated)** — Rate anything — anonymous, login-free ratings on Cloudflare D1.
-- **[open-historia](https://github.com/sarthakagrawal927/open-historia)** — AI-powered grand-strategy game played through natural language.
-- **[ai-game](https://github.com/sarthakagrawal927/ai-game)** — AI world simulator with an Unreal-first 3D game client.
+- **[email-manager](https://github.com/sarthakagrawal927/email-manager)** — Privacy-first Gmail manager — semantic search runs entirely in the browser. · [live](https://email-manager.sarthakagrawal927.workers.dev)
+- **[everythingrated](https://github.com/sarthakagrawal927/everythingrated)** — Rate anything — anonymous, login-free ratings on Cloudflare D1. · [live](https://everythingrated.sarthakagrawal927.workers.dev)
+- **[open-historia](https://github.com/sarthakagrawal927/open-historia)** — AI-powered grand-strategy game played through natural language. · [live](https://open-historia.sarthakagrawal927.workers.dev)
+- **[ai-game](https://github.com/sarthakagrawal927/ai-game)** — AI world simulator with an Unreal-first 3D game client. · [live](https://aliveville.com)
 - **[reel-maker](https://github.com/sarthakagrawal927/reel-maker)** — AI-powered TikTok/Reels video generator built on Remotion.
-- **[looptv](https://github.com/sarthakagrawal927/looptv)** — TV-like random YouTube player — 13 stations, 36K quality-filtered videos.
-- **[today-little-log](https://github.com/sarthakagrawal927/today-little-log)** — Minimal daily-logging PWA.
-- **[starboard](https://github.com/sarthakagrawal927/starboard)** — Organize, search, and filter your GitHub starred repos.
+- **[looptv](https://github.com/sarthakagrawal927/looptv)** — TV-like random YouTube player — 13 stations, 36K quality-filtered videos. · [live](https://looptv.pages.dev)
+- **[today-little-log](https://github.com/sarthakagrawal927/today-little-log)** — Minimal daily-logging PWA. · [live](https://today-little-log.pages.dev)
+- **[starboard](https://github.com/sarthakagrawal927/starboard)** — Organize, search, and filter your GitHub starred repos. · [live](https://starboard.sarthakagrawal927.workers.dev)
 - **[port-whisperer](https://github.com/sarthakagrawal927/port-whisperer)** — Developer-friendly port scanner with framework detection — written in Rust.
 - **[status-pulse](https://github.com/sarthakagrawal927/status-pulse-web)** — Uptime and status-page monitoring dashboard.
 
