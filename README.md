@@ -59,6 +59,10 @@ Products built before AI-assisted tooling — full-stack, mobile, and backend, h
 
 - **[PlayWordle](https://github.com/sarthakagrawal927/PlayWordle)** — Wordle clone written in Go.
 
+---
+
+*This is a curated selection. [Browse all repositories →](https://github.com/sarthakagrawal927?tab=repositories) for many more — earlier games, dev tools, benchmarks, and experiments built over the years.*
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@sarthakcodes-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sarthakcodes)
