@@ -24,7 +24,7 @@
 
 ## 🚀 Full-Stack Products
 
-- **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps — feedback, waitlist, analytics, AI gateway, and more. Multi-worker Cloudflare architecture with CockroachDB (via Hyperdrive), D1, and R2; ships an SDK, API, and dashboard. · [live](https://sassmaker.com)
+- **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS apps — feedback, waitlist, analytics, AI gateway, and more. Multi-worker Cloudflare architecture on D1 and R2; ships an SDK, API, and dashboard. · [live](https://sassmaker.com)
 - **[swe-interview-prep](https://github.com/sarthakagrawal927/swe-interview-prep)** — Interactive DSA & system-design prep studio — spaced repetition, multi-provider AI, in-browser editor. · [live](https://swe-interview-prep.pages.dev)
 - **[reader](https://github.com/sarthakagrawal927/reader)** — Read-it-later and AI annotation workspace — Next.js on Workers, R2 storage, bring-your-own-key AI. · [live](https://reader.sarthakagrawal927.workers.dev)
 - **[truehire](https://github.com/sarthakagrawal927/truehire)** — A verified-candidate layer for hiring — costly signals over AI-tailored resumes. · [live](https://truehire.sarthakagrawal927.workers.dev)
