@@ -5,6 +5,8 @@
 I build the rails AI runs on — and the products that ride them.
 Previously: real-time pipelines, vector feeds, and RAG agents at **[Front.Page](https://front.page)** (YC S'21).
 
+> 🏗️ **Most of my larger / newer projects now live in the [`sarthak-fleet`](https://github.com/sarthak-fleet) org** — moved there for org-level benefits (shared CI, secrets, project boards, team access). Worth a browse there alongside this profile.
+
 ## Start Here
 
 - 🧠 **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — Byte-level GPT, three ways: PyTorch, C++/WASM, WebGPU. Runs in your browser.
