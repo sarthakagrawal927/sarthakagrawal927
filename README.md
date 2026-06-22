@@ -9,21 +9,21 @@ Previously: real-time pipelines, vector feeds, and RAG agents at **[Front.Page](
 
 ## Start Here
 
-- 🧠 **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — Byte-level GPT, three ways: PyTorch, C++/WASM, WebGPU. Runs in your browser.
-- 🛰️ **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers
-- 🧰 **[saas-maker](https://github.com/sarthakagrawal927/saas-maker)** — Drop-in backend services for SaaS: feedback, waitlist, analytics, AI gateway, chatbot…
+- 🧠 **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — Byte-level GPT, three ways: PyTorch, C++/WASM, WebGPU. Runs in your browser.
+- 🛰️ **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers
+- 🧰 **[saas-maker](https://github.com/sarthak-fleet/saas-maker)** — Drop-in backend services for SaaS: feedback, waitlist, analytics, AI gateway, chatbot…
 - 📡 **[high-signal](https://highsignal.app)** — Evidence-backed signal log for AI infra & semiconductors
-- 🎯 **[truehire](https://github.com/sarthakagrawal927/truehire)** — The verified-candidate layer of the internet
+- 🎯 **[truehire](https://github.com/sarthak-fleet/truehire)** — The verified-candidate layer of the internet
 - ♻️ **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resume Claude Code through rate limits, with model cascading & fallbacks
 
 ## AI Infra & Dev Tools
 
-- 🛰️ **[free-ai](https://github.com/sarthakagrawal927/free-ai)** — OpenAI-compatible gateway on CF Workers
-- 🧠 **[tinygpt](https://github.com/sarthakagrawal927/tinygpt)** — GPT from scratch, three runtimes
+- 🛰️ **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible gateway on CF Workers
+- 🧠 **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — GPT from scratch, three runtimes
 - 🔍 **[CodeVetter](https://codevetter.com)** — AI code review, desktop app
 - ♻️ **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Claude Code rate-limit auto-resume
 - 🤖 **[assistant](https://github.com/sarthakagrawal927/assistant)** — Personal AI assistant
-- 🖥️ **[local-ai](https://github.com/sarthakagrawal927/local-ai)** — Local-first AI experiments
+- 🖥️ **[local-ai](https://github.com/sarthak-fleet/local-ai)** — Local-first AI experiments
 - 🧩 **[agentMode](https://github.com/sarthakagrawal927/agentMode)** — Agentic mode for IDE workflows
 - 🔌 **[port-whisperer](https://github.com/sarthakagrawal927/port-whisperer)** — Rust port scanner with framework detection
 - 🛠️ **[dev-workflow-migration](https://github.com/sarthakagrawal927/dev-workflow-migration)** — Migrate dev workflows across machines
@@ -31,24 +31,24 @@ Previously: real-time pipelines, vector feeds, and RAG agents at **[Front.Page](
 ## Products & SaaS
 
 - 🧰 **[saas-maker](https://sassmaker.com)** — SaaS backend buffet: feedback, waitlist, testimonials, changelog, forms, chatbot
-- 🎯 **[truehire](https://github.com/sarthakagrawal927/truehire)** — Costly signals over AI-tailored resumes
-- 📄 **[resume-tailor](https://rolepatch.com)** — LaTeX resume editor with AI job tailoring
-- 📚 **[reader](https://github.com/sarthakagrawal927/reader)** — Personal read-it-later
-- 📨 **[email-manager](https://github.com/sarthakagrawal927/email-manager)** — Gmail manager — browse, search, unsubscribe
-- 🎬 **[reel-maker](https://github.com/sarthakagrawal927/reel-maker)** — AI TikTok/Reels generator on Remotion
-- 💬 **[linkchat](https://github.com/sarthakagrawal927/linkchat)** — Chat over any link
-- ⭐ **[everythingrated](https://github.com/sarthakagrawal927/everythingrated)** — Rate anything
+- 🎯 **[truehire](https://github.com/sarthak-fleet/truehire)** — Costly signals over AI-tailored resumes
+- 📄 **[rolepatch](https://rolepatch.com)** — LaTeX resume editor with AI job tailoring
+- 📚 **[reader](https://github.com/sarthak-fleet/reader)** — Personal read-it-later
+- 📨 **[email-manager](https://github.com/sarthak-fleet/email-manager)** — Gmail manager — browse, search, unsubscribe
+- 🎬 **[reel-pipeline](https://github.com/sarthak-fleet/reel-pipeline)** — AI short-form video generation pipeline
+- 💬 **[karte](https://karte.cc)** — AI link-in-bio: chat, encyclopedia, roast modes
+- ⭐ **[everythingrated](https://github.com/sarthak-fleet/everythingrated)** — Rate anything
 - 📣 **[mentionpilot](https://github.com/sarthakagrawal927/mentionpilot)** — Brand mention monitoring
 
 ## Curiosity & Signal
 
 - 📡 **[high-signal](https://highsignal.app)** — Versioned signal log for AI infra / semis
-- ⭐ **[starboard](https://github.com/sarthakagrawal927/starboard)** — Organize & filter your GitHub stars
+- ⭐ **[starboard](https://github.com/sarthak-fleet/starboard)** — Organize & filter your GitHub stars
 - 🎲 **[significanthobbies](https://significanthobbies.com)** — Map your hobby journey across life phases
 - 📺 **[looptv](https://looptv.pages.dev)** — TV-style random YouTube player, 36k curated videos
-- 🎌 **[anime_list](https://anime-list-9lk.pages.dev)** — Anime tracker
-- 📜 **[open-historia](https://github.com/sarthakagrawal927/open-historia)** — Open history archive
-- 📝 **[today-little-log](https://github.com/sarthakagrawal927/today-little-log)** — Daily micro-log
+- 🎌 **[anime-list](https://anime-list-9lk.pages.dev)** — Anime tracker
+- 📜 **[open-historia](https://github.com/sarthak-fleet/open-historia)** — Open history archive
+- 📝 **[today-little-log](https://github.com/sarthak-fleet/today-little-log)** — Daily micro-log
 - 🎓 **[swe-interview-prep](https://swe-interview-prep.pages.dev)** — Interview prep tracker
 - 📊 **[sql-table-viewer](https://sql-table-viewer.vercel.app)** — Quick SQL table viewer
 
