@@ -5,65 +5,72 @@
 I build the rails AI runs on — and the products that ride them.
 Previously: real-time pipelines, vector feeds, and RAG agents at **[Front.Page](https://front.page)** (YC S'21).
 
-> 🏗️ **Most of my larger / newer projects now live in the [`sarthak-fleet`](https://github.com/sarthak-fleet) org** — moved there for org-level benefits (shared CI, secrets, project boards, team access). Worth a browse there alongside this profile.
+> 🏗️ **Most of my larger / newer projects now live in the [`sarthak-fleet`](https://github.com/sarthak-fleet) org** — 25 active products across AI infra, dev tools, and consumer apps. Worth a browse there alongside this profile.
 
 ## Start Here
 
-- 🧠 **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — Byte-level GPT, three ways: PyTorch, C++/WASM, WebGPU. Runs in your browser.
-- 🛰️ **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible LLM gateway on Cloudflare Workers
-- 🧰 **[saas-maker](https://github.com/sarthak-fleet/saas-maker)** — Drop-in backend services for SaaS: feedback, waitlist, analytics, AI gateway, chatbot…
-- 📡 **[high-signal](https://highsignal.app)** — Evidence-backed signal log for AI infra & semiconductors
-- 🎯 **[truehire](https://github.com/sarthak-fleet/truehire)** — The verified-candidate layer of the internet
+- 🧰 **[saas-maker](https://sassmaker.com)** — the Foundry: system-of-record, SDKs, widgets, CF API + cockpit
+- 🛰️ **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible LLM gateway, 30+ free-tier models across 8 providers
+- 🧠 **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — Mac-local LLM factory + runtime (MLX) + WebGPU playground
+- 📡 **[high-signal](https://highsignal.app)** — daily synthesized intelligence brief across tech, startups, and finance
+- 🎯 **[truehire](https://github.com/sarthak-fleet/truehire)** — verified-candidate scoring from public GitHub signals
 - ♻️ **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resume Claude Code through rate limits, with model cascading & fallbacks
 
-## AI Infra & Dev Tools
+## Fleet Products
 
-- 🛰️ **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible gateway on CF Workers
-- 🧠 **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — GPT from scratch, three runtimes
-- 🔍 **[CodeVetter](https://codevetter.com)** — AI code review, desktop app
-- ♻️ **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Claude Code rate-limit auto-resume
-- 🤖 **[assistant](https://github.com/sarthakagrawal927/assistant)** — Personal AI assistant
-- 🖥️ **[local-ai](https://github.com/sarthak-fleet/local-ai)** — Local-first AI experiments
-- 🧩 **[agentMode](https://github.com/sarthakagrawal927/agentMode)** — Agentic mode for IDE workflows
-- 🔌 **[port-whisperer](https://github.com/sarthakagrawal927/port-whisperer)** — Rust port scanner with framework detection
-- 🛠️ **[dev-workflow-migration](https://github.com/sarthakagrawal927/dev-workflow-migration)** — Migrate dev workflows across machines
+### Support — infrastructure serving other fleet projects
 
-## Products & SaaS
+- **[saas-maker](https://github.com/sarthak-fleet/saas-maker)** — the Foundry: system-of-record, SDKs, widgets, CF API + cockpit · [sassmaker.com](https://sassmaker.com)
+- **[free-ai](https://github.com/sarthak-fleet/free-ai)** — OpenAI-compatible LLM gateway, 30+ free-tier models across 8 providers
+- **[reel-pipeline](https://github.com/sarthak-fleet/reel-pipeline)** — AI short-form video generation pipeline
+- **[drank](https://github.com/sarthak-fleet/drank)** — Ahrefs Domain Rating tracker (feeds High Signal /domains)
 
-- 🧰 **[saas-maker](https://sassmaker.com)** — SaaS backend buffet: feedback, waitlist, testimonials, changelog, forms, chatbot
-- 🎯 **[truehire](https://github.com/sarthak-fleet/truehire)** — Costly signals over AI-tailored resumes
-- 📄 **[rolepatch](https://rolepatch.com)** — LaTeX resume editor with AI job tailoring
-- 📚 **[reader](https://github.com/sarthak-fleet/reader)** — Personal read-it-later
-- 📨 **[email-manager](https://github.com/sarthak-fleet/email-manager)** — Gmail manager — browse, search, unsubscribe
-- 🎬 **[reel-pipeline](https://github.com/sarthak-fleet/reel-pipeline)** — AI short-form video generation pipeline
-- 💬 **[karte](https://karte.cc)** — AI link-in-bio: chat, encyclopedia, roast modes
-- ⭐ **[everythingrated](https://github.com/sarthak-fleet/everythingrated)** — Rate anything
-- 📣 **[mentionpilot](https://github.com/sarthakagrawal927/mentionpilot)** — Brand mention monitoring
+### Support + SaaS — support infra that is also a public product
 
-## Curiosity & Signal
+- **[codevetter](https://github.com/sarthak-fleet/codevetter)** — desktop AI code review · [codevetter.com](https://codevetter.com)
+- **[knowledge-base](https://github.com/sarthak-fleet/knowledge-base)** — Private Agent Search: cited search over project-scoped private corpora
+- **[high-signal](https://github.com/sarthak-fleet/high-signal)** — daily synthesized intelligence brief · [highsignal.app](https://highsignal.app)
+- **[taste](https://github.com/sarthak-fleet/taste)** — ShipRank: pre-A/B / screenshot ranking for teams
 
-- 📡 **[high-signal](https://highsignal.app)** — Versioned signal log for AI infra / semis
-- ⭐ **[starboard](https://github.com/sarthak-fleet/starboard)** — Organize & filter your GitHub stars
-- 🎲 **[significanthobbies](https://significanthobbies.com)** — Map your hobby journey across life phases
-- 📺 **[looptv](https://looptv.pages.dev)** — TV-style random YouTube player, 36k curated videos
-- 🎌 **[anime-list](https://anime-list-9lk.pages.dev)** — Anime tracker
-- 📜 **[open-historia](https://github.com/sarthak-fleet/open-historia)** — Open history archive
-- 📝 **[today-little-log](https://github.com/sarthak-fleet/today-little-log)** — Daily micro-log
-- 🎓 **[swe-interview-prep](https://swe-interview-prep.pages.dev)** — Interview prep tracker
-- 📊 **[sql-table-viewer](https://sql-table-viewer.vercel.app)** — Quick SQL table viewer
+### Research — experimental, the bet is a research question
 
-## Games & Experiments
+- **[ai-game](https://github.com/sarthak-fleet/ai-game)** — 3D AI world simulator with NPC agents · [aliveville.com](https://aliveville.com)
+  - **[open-historia](https://github.com/sarthak-fleet/open-historia)** — AI grand-strategy history game (sub-product of ai-game)
+- **[pace](https://github.com/sarthak-fleet/pace)** — on-device Mac voice agent that reads your screen
+- **[tinygpt](https://github.com/sarthak-fleet/tinygpt)** — local LLM factory + runtime (Mac/MLX) + WebGPU playground
 
-- 🌍 **[ai-game](https://aliveville.com)** — AI world simulator with an Unreal-first 3D client
-- ♟️ **[chess](https://chess-9a0.pages.dev)** — AI-coached chess
-- 🎲 **[ludo-pass-play](https://ludo-pass-play.pages.dev)** — Classic Ludo as a mobile-first PWA
-- 👑 **[clash-royale-meta](https://clash-royale-meta.pages.dev)** — Meta deck explorer
-- 🔁 **[backpropagate](https://backpropagate.pages.dev)** — Backprop visualizer
+### Personal + SaaS — personal-use thesis, public SaaS surface
+
+- **[rolepatch](https://github.com/sarthak-fleet/rolepatch)** — AI resume tailoring + job-application assistant · [rolepatch.com](https://rolepatch.com)
+  - **[truehire](https://github.com/sarthak-fleet/truehire)** — verified-candidate GitHub scoring (sub-product of rolepatch)
+- **[karte](https://github.com/sarthak-fleet/karte)** — AI link-in-bio: chat, encyclopedia, roast · [karte.cc](https://karte.cc)
+
+### Personal + free-tool — built for personal use, free public tool
+
+- **[significanthobbies](https://github.com/sarthak-fleet/significanthobbies)** — life planner: private daily rituals + public living · [significanthobbies.com](https://significanthobbies.com)
+- **[reader](https://github.com/sarthak-fleet/reader)** — research library: capture, annotate, AI-chat
+- **[anime-list](https://github.com/sarthak-fleet/anime-list)** — anime/manga discovery with multi-axis filtering + watchlists
+- **[swe-interview-prep](https://github.com/sarthak-fleet/swe-interview-prep)** — SWE learning OS with FSRS spaced repetition
+- **[email-manager](https://github.com/sarthak-fleet/email-manager)** — Gmail workspace with local semantic search
+- **[looptv](https://github.com/sarthak-fleet/looptv)** — TV-style random YouTube player, ~38K curated videos · [looptv.pages.dev](https://looptv.pages.dev)
+
+### Data — the data is the asset, public surface is the product
+
+- **[everythingrated](https://github.com/sarthak-fleet/everythingrated)** — multi-axis ratings platform (AI dev-tool adoption)
+- **[materia](https://github.com/sarthak-fleet/materia)** — evidence-graded herbs/supplements/drugs by body part
+- **[research-papers](https://github.com/sarthak-fleet/research-papers)** — academic paper platform (488k papers, semantic search)
+- **[starboard](https://github.com/sarthak-fleet/starboard)** — GitHub stars organizer + semantic search
+
+## Personal Projects
+
+- ♻️ **[agent-resume](https://github.com/sarthakagrawal927/agent-resume)** — Auto-resume Claude Code through rate limits, with model cascading & fallbacks
+- 🎯 **[pinpoint](https://github.com/sarthakagrawal927/pinpoint)** — Click any element in your running app, leave a comment, let your coding agent edit the source
+- 🖥️ **[local-ai](https://github.com/sarthakagrawal927/local-ai)** — Local AI server fronting CLI tools (Claude/Codex/Gemini) over HTTP/SSE, no API keys
+- 📣 **[mentionpilot](https://github.com/sarthakagrawal927/mentionpilot)** — Social mention monitoring and reply tooling
 
 ## Sites
 
 - 🌐 **[portfolio](https://sarthakagrawal.pages.dev)** — Personal site, built with Astro 5, maintained by AI agents
-- ✍️ **[personalsite](https://personalsite-aeu.pages.dev)** — Significant Hobbies blog
 
 ## Stack
 
