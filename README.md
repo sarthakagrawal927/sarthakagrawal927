@@ -11,7 +11,7 @@ I build the rails AI runs on—and the products that ride them. Previously, I wo
 - [PostTrainLLM / TinyGPT](https://github.com/PostTrainLLM/tinygpt) — a local LLM factory, runtime, and WebGPU learning playground
 - [Pace](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
 
-These are my current focus: reviewing agent-written software, understanding and training small models, and building private on-device assistants.
+My current work centers on three problems: reviewing agent-written software, understanding and training small models, and building private on-device assistants.
 
 ## Other project homes
 
