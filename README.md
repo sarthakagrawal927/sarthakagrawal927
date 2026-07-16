@@ -8,7 +8,7 @@ I build the rails AI runs on—and the products that ride them. Previously, I wo
 ## Start here
 
 - [CodeVetter](https://github.com/Codevetter/codevetter) — local-first desktop review for agent-generated code
-- [PostTrainLLM / TinyGPT](https://github.com/PostTrainLLM/tinygpt) — a local LLM factory, runtime, and WebGPU learning playground
+- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm) — a local LLM factory, runtime, and WebGPU learning playground
 - [Pace](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
 
 My current work centers on three problems: reviewing agent-written software, understanding and training small models, and building private on-device assistants.
@@ -17,10 +17,7 @@ My current work centers on three problems: reviewing agent-written software, und
 
 | Organization | What lives there |
 | --- | --- |
-| [CodeVetter](https://github.com/Codevetter) | Code review and repository intelligence |
 | [High Signal](https://github.com/High-Signal-App) | Research, papers, and data-heavy intelligence products |
-| [Pace](https://github.com/HeyPace) | On-device and embodied assistants |
-| [PostTrainLLM](https://github.com/PostTrainLLM) | Local models, post-training, and model-learning tools |
 | [Significant Hobbies](https://github.com/Significant-Hobbies) | Personal software for learning, media, and living well |
 | [SaaS Maker](https://github.com/sass-maker) | Shared product infrastructure and fleet tooling |
 
