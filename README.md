@@ -10,18 +10,23 @@ I build the rails AI runs on—and the products that ride them. Previously, I wo
 - [CodeVetter](https://github.com/Codevetter/codevetter) — local-first desktop review for agent-generated code
 - [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm) — a local LLM factory, runtime, and WebGPU learning playground
 - [Pace](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
+- [High Signal](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
+- [SaaS Maker](https://github.com/sass-maker/saas-maker) — the product platform and operating layer behind the fleet
 
-My current work centers on three problems: reviewing agent-written software, understanding and training small models, and building private on-device assistants.
+My current work centers on five core products. Their organizations may contain supporting repositories, but each organization is organized around one primary product rather than acting as a general portfolio umbrella.
 
 ## Other project homes
 
 | Organization | What lives there |
 | --- | --- |
-| [High Signal](https://github.com/High-Signal-App) | Research, papers, and data-heavy intelligence products |
-| [Significant Hobbies](https://github.com/Significant-Hobbies) | Personal software for learning, media, and living well |
-| [SaaS Maker](https://github.com/sass-maker) | Shared product infrastructure and fleet tooling |
+| [CodeVetter](https://github.com/Codevetter) | CodeVetter, supported by Starboard |
+| [PostTrainLLM](https://github.com/PostTrainLLM) | The PostTrainLLM product and model-learning runtime |
+| [HeyPace](https://github.com/HeyPace) | Pace, with Companion Robot as future support |
+| [High Signal](https://github.com/High-Signal-App) | High Signal with relevant research and ratings data |
+| [SaaS Maker](https://github.com/sass-maker) | SaaS Maker with its infrastructure and operator tools |
+| [Significant Hobbies](https://github.com/Significant-Hobbies) | The Significant Hobbies project plus independent tools I made for myself |
 
-Personal projects—including [RolePatch](https://github.com/sarthakagrawal927/rolepatch), [Karte](https://github.com/sarthakagrawal927/karte), and [Web Playables](https://github.com/sarthakagrawal927/web-playables)—live on this profile. [Protein Index](https://github.com/Significant-Hobbies/protein-index) and other hobby projects live under Significant Hobbies.
+Maintained personal projects—including [RolePatch](https://github.com/sarthakagrawal927/rolepatch), AliveVille, [Karte](https://github.com/sarthakagrawal927/karte), and [Web Playables](https://github.com/sarthakagrawal927/web-playables)—remain available without being current focus products. [Protein Index](https://github.com/Significant-Hobbies/protein-index) and other personal tools live under Significant Hobbies.
 
 ## Stack
 
