@@ -21,7 +21,7 @@ My current work centers on three problems: reviewing agent-written software, und
 | [Significant Hobbies](https://github.com/Significant-Hobbies) | Personal software for learning, media, and living well |
 | [SaaS Maker](https://github.com/sass-maker) | Shared product infrastructure and fleet tooling |
 
-Personal projects—including [RolePatch](https://github.com/sarthakagrawal927/rolepatch), [Karte](https://github.com/sarthakagrawal927/karte), [Protein Index](https://github.com/sarthakagrawal927/protein-index), and [Web Playables](https://github.com/sarthakagrawal927/web-playables)—live on this profile.
+Personal projects—including [RolePatch](https://github.com/sarthakagrawal927/rolepatch), [Karte](https://github.com/sarthakagrawal927/karte), and [Web Playables](https://github.com/sarthakagrawal927/web-playables)—live on this profile. [Protein Index](https://github.com/Significant-Hobbies/protein-index) and other hobby projects live under Significant Hobbies.
 
 ## Stack
 
