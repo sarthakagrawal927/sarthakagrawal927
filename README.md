@@ -7,13 +7,15 @@ I build the rails AI runs on—and the products that ride them. Previously, I wo
 
 ## Start here
 
-- [CodeVetter](https://github.com/Codevetter/codevetter) — local-first desktop review for agent-generated code
-- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm) — a local LLM factory, runtime, and WebGPU learning playground
-- [Pace](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
-- [High Signal](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
-- [SaaS Maker](https://github.com/sass-maker/saas-maker) — the product platform and operating layer behind the fleet
+The public front door is four products plus SaaS Maker, which links to the broader project directory:
 
-My current work centers on five core products. Their organizations may contain supporting repositories, but each organization is organized around one primary product rather than acting as a general portfolio umbrella.
+- [CodeVetter](https://codevetter.com) · [GitHub](https://github.com/Codevetter/codevetter) — local-first desktop review for agent-generated code
+- [Post-train LLM](https://posttrainllm.com) · [GitHub](https://github.com/PostTrainLLM/posttrainllm) — local LLM factory, runtime, and WebGPU learning playground
+- [HeyPace](https://heypace.app) · [GitHub](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
+- [HiSignal](https://highsignal.app) · [GitHub](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
+- [SaaS Maker](https://sassmaker.com) · [GitHub](https://github.com/sass-maker/saas-maker) — the broader directory and operating layer behind the fleet
+
+The personal site keeps this landing story precise. The full project archive is available at [sarthakagrawal.dev/projects](https://sarthakagrawal.dev/projects), while SaaS Maker is the canonical directory for product pages and supporting repositories.
 
 ## Other project homes
 
@@ -23,7 +25,7 @@ My current work centers on five core products. Their organizations may contain s
 | [PostTrainLLM](https://github.com/PostTrainLLM) | The PostTrainLLM product and model-learning runtime |
 | [HeyPace](https://github.com/HeyPace) | Pace, with Companion Robot as future support |
 | [High Signal](https://github.com/High-Signal-App) | High Signal with relevant research and ratings data |
-| [SaaS Maker](https://github.com/sass-maker) | SaaS Maker with its infrastructure and operator tools |
+| [SaaS Maker](https://github.com/sass-maker) | SaaS Maker, the full directory, infrastructure, and operator tools |
 | [Significant Hobbies](https://github.com/Significant-Hobbies) | The Significant Hobbies project plus independent tools I made for myself |
 
 Maintained personal projects—including [RolePatch](https://github.com/sarthakagrawal927/rolepatch), AliveVille, [Karte](https://github.com/sarthakagrawal927/karte), and [Web Playables](https://github.com/sarthakagrawal927/web-playables)—remain available without being current focus products. [Protein Index](https://github.com/Significant-Hobbies/protein-index) and other personal tools live under Significant Hobbies.
