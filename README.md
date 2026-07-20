@@ -12,7 +12,7 @@ The public front door is four products plus SaaS Maker, which links to the broad
 - [CodeVetter](https://codevetter.com) · [GitHub](https://github.com/Codevetter/codevetter) — local-first desktop review for agent-generated code
 - [Post-train LLM](https://posttrainllm.com) · [GitHub](https://github.com/PostTrainLLM/posttrainllm) — local LLM factory, runtime, and WebGPU learning playground
 - [HeyPace](https://heypace.app) · [GitHub](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
-- [HiSignal](https://highsignal.app) · [GitHub](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
+- [High Signal](https://highsignal.app) · [GitHub](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
 - [SaaS Maker](https://sassmaker.com) · [GitHub](https://github.com/sass-maker/saas-maker) — the broader directory and operating layer behind the fleet
 
 The personal site keeps this landing story precise. The full project archive is available at [sarthakagrawal.dev/projects](https://sarthakagrawal.dev/projects), while SaaS Maker is the canonical directory for product pages and supporting repositories.
@@ -24,5 +24,3 @@ Go · TypeScript/Node.js · Python · Rust · Kafka · Temporal · Postgres · C
 ## Find me
 
 [sarthakagrawal.dev](https://sarthakagrawal.dev) · [@sarthakcodes](https://x.com/sarthakcodes) · [LinkedIn](https://linkedin.com/in/sarthakagrawal927)
-
-<sub>This README and my personal site are maintained with coding agents.</sub>
