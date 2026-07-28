@@ -15,9 +15,9 @@ The public front door is four products plus SaaS Maker, which links to the broad
 - [High Signal](https://highsignal.app) · [GitHub](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
 - [SaaS Maker](https://sassmaker.com) · [Source](https://github.com/sass-maker/fleet-workspace/tree/main/fleet-ops/apps/public-directory) — the public directory for the broader product catalog
 
-See the [full project archive](https://sarthakagrawal.dev/projects), or browse the broader product directory at [SaaS Maker](https://sassmaker.com).
+See the [full project archive](https://sarthakagrawal.dev/projects), or browse the broader product directory at [SaaS Maker](https://sassmaker.com).\n\n## Writing
 
-## Stack
+- [Skills should declare capabilities, not model names](https://sassmaker.com/learnings/skills-should-declare-capabilities-not-model-names) — A provider-neutral method for declaring the intelligence, reasoning floor, and degradation behavior a portable skill needs, tested across 28 Fleet-owned skills.\n\n## Stack
 
 Go · TypeScript/Node.js · Python · Rust · Kafka · Temporal · Postgres · ClickHouse · Redis · vector search · RAG · Cloudflare Workers
 
