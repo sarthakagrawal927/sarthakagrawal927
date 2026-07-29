@@ -5,6 +5,8 @@ Backend + AI infrastructure at [Vault Wealth](https://vaultwealth.com) (Peak XV)
 
 I build the rails AI runs on—and the products that ride them. Previously, I worked on real-time pipelines, vector feeds, and RAG agents at [Front.Page](https://front.page) (YC S'21).
 
+These are independent products and research projects created and maintained by me.
+
 ## Start here
 
 The public front door is four products plus SaaS Maker, which links to the broader project directory:
@@ -13,7 +15,7 @@ The public front door is four products plus SaaS Maker, which links to the broad
 - [PostTrainLLM](https://posttrainllm.com) · [GitHub](https://github.com/PostTrainLLM/posttrainllm) — local LLM factory, runtime, and WebGPU learning playground
 - [HeyPace](https://heypace.app) · [GitHub](https://github.com/HeyPace/pace) — on-device Mac voice agent that can read your screen
 - [High Signal](https://highsignal.app) · [GitHub](https://github.com/High-Signal-App/high-signal) — evidence-first signal and supporting research data
-- [SaaS Maker](https://sassmaker.com) · [Source](https://github.com/sass-maker/fleet-workspace/tree/main/fleet-ops/apps/public-directory) — the public directory for the broader product catalog
+- [SaaS Maker](https://sassmaker.com) · [Directory](https://sassmaker.com/#products) — the public directory for the broader product catalog
 
 See the [full project archive](https://sarthakagrawal.dev/projects), or browse the broader product directory at [SaaS Maker](https://sassmaker.com).
 
