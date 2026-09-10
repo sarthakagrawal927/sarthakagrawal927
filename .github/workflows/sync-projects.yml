@@ -1,0 +1,28 @@
+name: Sync public projects
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: public-projects
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch published public catalog
+        run: curl --fail --silent --show-error --location --max-time 30 https://sassmaker.com/portfolio.json --output "$RUNNER_TEMP/portfolio.json"
+      - name: Update only the generated project section
+        run: node .github/scripts/public-profile.mjs README.md "$RUNNER_TEMP/portfolio.json"
+      - name: Commit changed project section
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git add README.md
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh public projects from SaaS Maker'
+          git push
