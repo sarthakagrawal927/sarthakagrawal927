@@ -24,6 +24,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Anime List](https://anime.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anime-list) — Anime and manga discovery with multi-axis filtering and personal watchlists.
 - [SWE Interview Prep](https://learn.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/swe-interview-prep) — A learning OS for software-engineering interview practice.
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
+- [StorageDaddy](https://storagedaddy.significanthobbies.com/) — A native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup.
 
 ### Past work and experiments
 
