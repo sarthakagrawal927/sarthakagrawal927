@@ -19,7 +19,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 
 ### Current projects
 
-- [Live](https://live.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/live) — A free personality and hobby quiz that suggests a small experiment to try; account planning is not yet qualified.
+- [Live](https://live.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/live) — Explore hobbies and possibilities, build a personal bucket list, and save your progress on this device or in your account.
 - [SaaS Maker](https://sassmaker.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A public directory of working experiments, reference projects and reusable tooling.
 - [Anime List](https://anime.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anime-list) — Anime and manga discovery with multi-axis filtering and personal watchlists.
 - [SWE Interview Prep](https://learn.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/swe-interview-prep) — A learning OS for software-engineering interview practice.
