@@ -35,6 +35,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
 - [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Privacy-first endpoint health for Node, Go, and OpenTelemetry services.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
+- [Nomad Data Adventure](https://sarthakagrawal927.github.io/nomad-data-adventure/) · [GitHub](https://github.com/sarthakagrawal927/nomad-data-adventure) — A small city-comparison experiment with fictional sample data, sortable trade-offs and a budget filter.
 - [StorageDaddy](https://storagedaddy.significanthobbies.com/) — A native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup.
 
 ### Past work and experiments
