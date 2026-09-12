@@ -19,11 +19,22 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 
 ### Current projects
 
+- [HeyPace](https://heypace.app/) · [GitHub](https://github.com/HeyPace/pace) — An experimental macOS voice-agent preview; installation and permission-dependent workflows are still being qualified.
 - [Live](https://live.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/live) — Explore hobbies and possibilities, build a personal bucket list, and save your progress on this device or in your account.
 - [SaaS Maker](https://sassmaker.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A public directory of working experiments, reference projects and reusable tooling.
+- [Free AI](https://ai-gateway.sassmaker.com/) · [GitHub](https://github.com/sass-maker/free-ai) — An OpenAI-compatible free-tier model gateway with operator-provisioned project access.
+- [High Signal](https://highsignal.app/) · [GitHub](https://github.com/High-Signal-App/high-signal) — Evidence-backed daily intelligence across technology, startups, finance, and public markets.
+- [Knowledge Base](https://knowledgebase.sassmaker.com/) · [GitHub](https://github.com/sass-maker/knowledge-base) — Private agent search over specialized corpora with ranked citations, provenance, and schema-aware retrieval.
+- [Significant Hobbies](https://significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/significanthobbies) — The shared Hub for Live, Calorie, Setline, Kith, and Anchor, backed by one privacy-aware control plane.
 - [Anime List](https://anime.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anime-list) — Anime and manga discovery with multi-axis filtering and personal watchlists.
 - [SWE Interview Prep](https://learn.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/swe-interview-prep) — A learning OS for software-engineering interview practice.
+- [Calorie](https://calorie.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/calorie) — A private, local-first food, water, and weight journal with transparent timing guidance.
+- [Setline](https://setline.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/setline) — An iOS-native training tracker that runs a written strength, cardio and mobility programme one set at a time and measures each exercise against an authored target.
+- [Kith](https://kith.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/kith) — A private iPhone app for the people you actually want to stay close to — closeness-weighted constellation home, standing notes, and a chronological log per person.
+- [Karte](https://karte.cc/) · [GitHub](https://github.com/Significant-Hobbies/karte) — A creator-owned public profile that answers visitor questions and preserves context for better inbound.
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
+- [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Privacy-first endpoint health for Node, Go, and OpenTelemetry services.
+- [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
 - [StorageDaddy](https://storagedaddy.significanthobbies.com/) — A native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup.
 
 ### Past work and experiments
@@ -42,6 +53,11 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Look Sideways](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Sarthak Agrawal](https://sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/portfolio) — Selected engineering case studies, technical writing and working project demonstrations.
 - [Reddit Insights](https://reddit-insights.highsignal.app/) · [GitHub](https://github.com/High-Signal-App/research-subreddit) — Search a dated snapshot of 93 Reddit communities in your browser, with links to original posts and explicit provenance limits.
+- [AI Badges](https://github.com/sarthakagrawal927/ai-badges) · [GitHub](https://github.com/sarthakagrawal927/ai-badges) — Embeddable README badges for declaring AI contribution and welcoming AI-assisted pull requests.
+- [PH Catalog](https://github.com/sarthakagrawal927/ph-catalog) · [GitHub](https://github.com/sarthakagrawal927/ph-catalog) — An offline catalogue experiment that parses fictional product pages, checks completeness and exports a local snapshot.
+- [Pinpoint](https://github.com/sarthakagrawal927/pinpoint) · [GitHub](https://github.com/sarthakagrawal927/pinpoint) — A local developer preview for selecting an app element, attaching a comment and handing context to a coding agent.
+- [Port Whisperer](https://github.com/sarthakagrawal927/port-whisperer) · [GitHub](https://github.com/sarthakagrawal927/port-whisperer) — A command-line port scanner with framework detection and structured output for local development.
+- [Society Relay](https://github.com/sarthakagrawal927/society-relay) · [GitHub](https://github.com/sarthakagrawal927/society-relay) — A fixture-driven community repair-planning experiment with human approval, work orders and calendar export.
 
 [Project data](https://sassmaker.com/portfolio.json) · [Personal portfolio](https://sarthakagrawal.dev/projects)
 
