@@ -33,10 +33,11 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Kith](https://kith.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/kith) — A private iPhone app for the people you actually want to stay close to — closeness-weighted constellation home, standing notes, and a chronological log per person.
 - [Karte](https://karte.cc/) · [GitHub](https://github.com/Significant-Hobbies/karte) — A creator-owned public profile that answers visitor questions and preserves context for better inbound.
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
-- [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Privacy-first endpoint health for Node, Go, and OpenTelemetry services.
+- [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Web analytics, product events, logs, and endpoint health in one workspace.
+- [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
-- [Nomad Data Adventure](https://sarthakagrawal927.github.io/nomad-data-adventure/) · [GitHub](https://github.com/sarthakagrawal927/nomad-data-adventure) — A small city-comparison experiment with fictional sample data, sortable trade-offs and a budget filter.
-- [StorageDaddy](https://storagedaddy.significanthobbies.com/) — A native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup.
+- [storagedaddy](https://storagedaddy.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
+- [LaunchDesk](https://sassmaker.com/launchdesk/) · [GitHub](https://github.com/Significant-Hobbies/launchdesk) — A local-first launch workspace with a provenance-bearing catalog of 966 submission destinations, per-product queues and source-attributed metrics. Your workspace stays in your browser.
 
 ### Past work and experiments
 
@@ -51,9 +52,9 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [RolePatch](https://rolepatch.com/) · [GitHub](https://github.com/Significant-Hobbies/rolepatch) — A guest resume-tailoring experiment with a reviewable diff and browser-local document exports.
 - [Mashup](https://mashup.highsignal.app/) · [GitHub](https://github.com/sass-maker/mashup) — Two playable examples of a local media-editing pipeline, with captions and inspectable source and approval receipts.
 - [Web Playables](https://idle.aliveville.com/) · [GitHub](https://github.com/sarthakagrawal927/web-playables) — Small browser-playable game experiments.
-- [Look Sideways](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Sarthak Agrawal](https://sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/portfolio) — Selected engineering case studies, technical writing and working project demonstrations.
 - [Reddit Insights](https://reddit-insights.highsignal.app/) · [GitHub](https://github.com/High-Signal-App/research-subreddit) — Search a dated snapshot of 93 Reddit communities in your browser, with links to original posts and explicit provenance limits.
+- [Nomad Data Adventure](https://nomad.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/nomad-data-adventure) — Nomad Atlas explores 1,374 terrestrial places with living-cost profiles, lifestyle filters, city comparisons and downloadable source data credited to Nomads.com.
 - [AI Badges](https://github.com/sarthakagrawal927/ai-badges) · [GitHub](https://github.com/sarthakagrawal927/ai-badges) — Embeddable README badges for declaring AI contribution and welcoming AI-assisted pull requests.
 - [PH Catalog](https://github.com/sarthakagrawal927/ph-catalog) · [GitHub](https://github.com/sarthakagrawal927/ph-catalog) — An offline catalogue experiment that parses fictional product pages, checks completeness and exports a local snapshot.
 - [Pinpoint](https://github.com/sarthakagrawal927/pinpoint) · [GitHub](https://github.com/sarthakagrawal927/pinpoint) — A local developer preview for selecting an app element, attaching a comment and handing context to a coding agent.
