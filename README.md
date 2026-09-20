@@ -38,7 +38,8 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
 - [storagedaddy](https://storagedaddy.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
-- [LaunchDesk](https://sassmaker.com/launchdesk) · [GitHub](https://github.com/Significant-Hobbies/launchdesk) — A local-first launch workspace with a provenance-bearing catalog of 966 submission destinations, per-product queues and source-attributed metrics. Your workspace stays in your browser.
+- [BrowserDaddy](https://browserdaddy.significanthobbies.com/) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
+- [PerformanceDaddy](https://performancedaddy.significanthobbies.com/) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
 
 ### Past work and experiments
 
