@@ -21,7 +21,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 
 - [HeyPace](https://heypace.app/) · [GitHub](https://github.com/HeyPace/pace) — An experimental macOS voice-agent preview; installation and permission-dependent workflows are still being qualified.
 - [Live](https://live.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/live) — Explore hobbies and possibilities, build a personal bucket list, and save your progress on this device or in your account.
-- [SaaS Maker](https://sassmaker.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A public directory of working experiments, reference projects and reusable tooling.
+- [SaaS Maker](https://sassmaker.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A public directory of working experiments, launch destinations, reference projects and reusable tooling.
 - [Free AI](https://ai-gateway.sassmaker.com/) · [GitHub](https://github.com/sass-maker/free-ai) — An OpenAI-compatible free-tier model gateway with operator-provisioned project access.
 - [High Signal](https://highsignal.app/) · [GitHub](https://github.com/High-Signal-App/high-signal) — Evidence-backed daily intelligence across technology, startups, finance, and public markets.
 - [Knowledge Base](https://knowledgebase.sassmaker.com/) · [GitHub](https://github.com/sass-maker/knowledge-base) — Private agent search over specialized corpora with ranked citations, provenance, and schema-aware retrieval.
@@ -37,9 +37,11 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [PH Catalog](https://github.com/sarthakagrawal927/ph-catalog) · [GitHub](https://github.com/sarthakagrawal927/ph-catalog) — A resumable local Product Hunt catalogue and analytics experiment with a privacy-safe synthetic demo.
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
-- [storagedaddy](https://storagedaddy.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
-- [BrowserDaddy](https://browserdaddy.significanthobbies.com/) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
-- [PerformanceDaddy](https://performancedaddy.significanthobbies.com/) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
+- [storagedaddy](https://storage.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
+- [BrowserDaddy](https://browser.daddyrad.com/) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
+- [PerformanceDaddy](https://performance.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
+- [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/contextdaddy) — A read-only native Mac app for coding-agent context: per-runtime skill access, project context inventory, local usage history and verified OpenTelemetry signals.
+- [DaddyRad](https://daddyrad.com/) — Umbrella landing for the daddy series of native Mac utilities.
 
 ### Past work and experiments
 
@@ -57,6 +59,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Sarthak Agrawal](https://sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/portfolio) — Selected engineering case studies, technical writing and working project demonstrations.
 - [Reddit Insights](https://reddit-insights.highsignal.app/) · [GitHub](https://github.com/High-Signal-App/research-subreddit) — Search a dated snapshot of 93 Reddit communities in your browser, with links to original posts and explicit provenance limits.
 - [Nomad Data Adventure](https://nomad.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/nomad-data-adventure) — Nomad Atlas explores 1,374 terrestrial places with living-cost profiles, lifestyle filters, city comparisons and downloadable source data credited to Nomads.com.
+- [Browser Agent Testing](https://browser-agents.sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/agent-testing) — A completed local web and iOS experiment comparing browser-agent strategies with independent verification.
 - [AI Badges](https://github.com/sarthakagrawal927/ai-badges) · [GitHub](https://github.com/sarthakagrawal927/ai-badges) — Embeddable README badges for declaring AI contribution and welcoming AI-assisted pull requests.
 - [Pinpoint](https://github.com/sarthakagrawal927/pinpoint) · [GitHub](https://github.com/sarthakagrawal927/pinpoint) — A local developer preview for selecting an app element, attaching a comment and handing context to a coding agent.
 - [Port Whisperer](https://github.com/sarthakagrawal927/port-whisperer) · [GitHub](https://github.com/sarthakagrawal927/port-whisperer) — A command-line port scanner with framework detection and structured output for local development.
