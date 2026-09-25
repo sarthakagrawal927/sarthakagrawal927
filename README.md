@@ -41,7 +41,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [BrowserDaddy](https://browser.daddyrad.com/) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
 - [PerformanceDaddy](https://performance.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
 - [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/contextdaddy) — A read-only native Mac app for coding-agent context: per-runtime skill access, project context inventory, local usage history and verified OpenTelemetry signals.
-- [DaddyRad](https://daddyrad.com/) — Umbrella landing for the daddy series of native Mac utilities.
+- [DaddyRad](https://daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/daddyrad) — Umbrella landing for the daddy series of native Mac utilities.
 
 ### Past work and experiments
 
