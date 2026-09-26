@@ -38,9 +38,9 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
 - [storagedaddy](https://storage.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
-- [BrowserDaddy](https://browser.daddyrad.com/) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
+- [BrowserDaddy](https://browser.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/browserdaddy) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
 - [PerformanceDaddy](https://performance.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
-- [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/contextdaddy) — A read-only native Mac app for coding-agent context: per-runtime skill access, project context inventory, local usage history and verified OpenTelemetry signals.
+- [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
 - [DaddyRad](https://daddyrad.com/) · [GitHub](https://github.com/sarthakagrawal927/daddyrad) — Umbrella landing for the daddy series of native Mac utilities.
 
 ### Past work and experiments
@@ -51,7 +51,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [High Signal Podcasts](https://podcasts.highsignal.app/) · [GitHub](https://github.com/Significant-Hobbies/on-record) — Search evidenced podcast claims and follow links back to the original episode or publication.
 - [IssuePages](https://issues.sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/issue-pages) — Read public GitHub issues as focused articles; publishing requires repository-owner access.
 - [Research Papers](https://papers.highsignal.app/) · [GitHub](https://github.com/High-Signal-App/research-papers) — Search academic papers and follow original sources; account-based research chat is not yet qualified.
-- [Materia](https://materia.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/materia) — An educational body-and-remedy reference with condition-specific research citations and explicit uncertainty.
+- [Materia](https://materia.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/materia) — An educational body-and-remedy reference with condition-specific research citations and explicit uncertainty.
 - [LoopTV](https://tv.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/looptv) — An experimental lean-back queue of curated science and other videos.
 - [RolePatch](https://rolepatch.com/) · [GitHub](https://github.com/Significant-Hobbies/rolepatch) — A guest resume-tailoring experiment with a reviewable diff and browser-local document exports.
 - [Mashup](https://mashup.highsignal.app/) · [GitHub](https://github.com/sass-maker/mashup) — Two playable examples of a local media-editing pipeline, with captions and inspectable source and approval receipts.
