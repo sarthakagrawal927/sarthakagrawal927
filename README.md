@@ -55,7 +55,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [PerformanceDaddy](https://performance.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
 - [Browser Agent Testing](https://browser-agents.sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/agent-testing) — A completed local web and iOS experiment comparing browser-agent strategies with independent verification.
 - [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
-- [DaddyRad](https://daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/daddyrad) — Umbrella landing for the daddy series of native Mac utilities.
+- [DaddyRad](https://daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/daddyrad) — Series home and a local read-only MCP source preview for performance, storage, browser rules and agent context.
 
 ### Past work and experiments
 
