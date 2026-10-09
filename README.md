@@ -22,13 +22,11 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [HeyPace](https://heypace.app/) · [GitHub](https://github.com/HeyPace/pace) — An experimental macOS voice-agent preview; installation and permission-dependent workflows are still being qualified.
 - [Live](https://live.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/live) — Explore hobbies and possibilities, build a personal bucket list, and save your progress on this device or in your account.
 - [SaaS Maker](https://sassmaker.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A public directory of working experiments, launch destinations, reference projects and reusable tooling.
-- [GitStat](https://git.significanthobbies.com/) · [GitHub](https://github.com/sass-maker/gitstat) — An experimental public GitHub analysis tool for repository activity, contributions and code churn.
 - [Kinetic](https://mail.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/email-manager) — A private Gmail workspace for local semantic search, sender insights, and explicit unsubscribe workflows.
-- [Memory Map](https://chatgpt.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/chatgpt-memory-insights) — A browser-local experiment for importing a ChatGPT export, exploring semantic themes and search, and optionally saving analysis on your device.
+- [Memory Map](https://chatgpt.significanthobbies.com/) · [GitHub](https://github.com/sass-maker/saas-maker) — A browser-local experiment for importing a ChatGPT export, exploring semantic themes and search, and optionally saving analysis on your device.
 - [Free AI](https://ai-gateway.sassmaker.com/) · [GitHub](https://github.com/sass-maker/free-ai) — An OpenAI-compatible free-tier model gateway with operator-provisioned project access.
 - [High Signal](https://highsignal.app/) · [GitHub](https://github.com/High-Signal-App/high-signal) — Evidence-backed daily intelligence across technology, startups, finance, and public markets.
 - [High Signal Podcasts](https://podcasts.highsignal.app/) · [GitHub](https://github.com/Significant-Hobbies/on-record) — Search evidenced podcast claims and follow links back to the original episode or publication.
-- [IssuePages](https://issues.sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/issue-pages) — Read public GitHub issues as focused articles; publishing requires repository-owner access.
 - [Research Papers](https://papers.highsignal.app/) · [GitHub](https://github.com/High-Signal-App/research-papers) — Search academic papers and follow original sources; account-based research chat is not yet qualified.
 - [Knowledge Base](https://knowledgebase.sassmaker.com/) · [GitHub](https://github.com/sass-maker/knowledge-base) — Private agent search over specialized corpora with ranked citations, provenance, and schema-aware retrieval.
 - [Significant Hobbies](https://significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/significanthobbies) — The shared Hub for Live, Calorie, Setline, Kith, and Anchor, backed by one privacy-aware control plane.
@@ -42,7 +40,6 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Karte](https://karte.cc/) · [GitHub](https://github.com/Significant-Hobbies/karte) — A creator-owned public profile that answers visitor questions and preserves context for better inbound.
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
 - [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Web analytics, product events, logs, and endpoint health in one workspace.
-- [Mashup](https://mashup.highsignal.app/) · [GitHub](https://github.com/sass-maker/mashup) — Two playable examples of a local media-editing pipeline, with captions and inspectable source and approval receipts.
 - [PH Catalog](https://ph.significanthobbies.com/) · [GitHub](https://github.com/sarthakagrawal927/ph-catalog) — A resumable local Product Hunt catalogue and analytics experiment with a privacy-safe synthetic demo.
 - [Web Playables](https://idle.aliveville.com/) · [GitHub](https://github.com/sarthakagrawal927/web-playables) — Small browser-playable game experiments.
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
@@ -53,9 +50,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [storagedaddy](https://storage.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
 - [BrowserDaddy](https://browser.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/browserdaddy) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
 - [PerformanceDaddy](https://performance.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
-- [Browser Agent Testing](https://browser-agents.sarthakagrawal.dev/) · [GitHub](https://github.com/sarthakagrawal927/agent-testing) — A completed local web and iOS experiment comparing browser-agent strategies with independent verification.
 - [ContextDaddy](https://context.daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
-- [DaddyRad](https://daddyrad.com/) · [GitHub](https://github.com/Significant-Hobbies/daddyrad) — Series home and a local read-only MCP source preview for performance, storage, browser rules and agent context.
 
 ### Past work and experiments
 
