@@ -11,23 +11,29 @@ function httpsUrl(value) {
 }
 
 export function validateCatalog(catalog) {
-  if (catalog?.schemaVersion !== 5 || !Array.isArray(catalog.directory) || !catalog.directory.length) {
+  if (![5, 6].includes(catalog?.schemaVersion) || !Array.isArray(catalog.directory) || !catalog.directory.length) {
     throw new Error('Expected a nonempty public catalog');
   }
   const ids = new Set();
+  const projects = [];
   for (const project of catalog.directory) {
-    if (!project || project.shareable !== true || typeof project.id !== 'string' || !project.id.trim() || ids.has(project.id)) {
+    if (!project || typeof project.id !== 'string' || !project.id.trim() || ids.has(project.id)) {
       throw new Error('Private or duplicate project in public catalog');
     }
     ids.add(project.id);
+    if (catalog.schemaVersion === 6 && project.availability !== 'public-link') continue;
+    if (project.shareable !== true) throw new Error('Private project in public catalog');
     for (const key of ['name', 'description']) {
       if (typeof project[key] !== 'string' || !project[key].trim()) throw new Error(`Missing project ${key}`);
     }
     if (!['featured', 'current', 'past'].includes(project.group)) throw new Error('Unknown public project group');
-    httpsUrl(project.url);
-    if (project.repositoryUrl) httpsUrl(project.repositoryUrl);
+    const publicProject = catalog.schemaVersion === 6 ? { ...project, url: project.publicUrl } : project;
+    httpsUrl(publicProject.url);
+    if (publicProject.repositoryUrl) httpsUrl(publicProject.repositoryUrl);
+    projects.push(publicProject);
   }
-  return catalog.directory;
+  if (!projects.length) throw new Error('Expected at least one public project link');
+  return projects;
 }
 
 function text(value) {
@@ -78,7 +84,7 @@ async function main(args) {
   if (args.includes('--check')) {
     if (after !== before) throw new Error('GitHub profile projects are stale');
   } else if (after !== before) await writeFile(readmePath, after);
-  console.log(`GitHub profile: ${catalog.directory.length} public projects`);
+  console.log(`GitHub profile: ${validateCatalog(catalog).length} public projects`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
