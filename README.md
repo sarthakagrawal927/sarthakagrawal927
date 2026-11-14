@@ -48,6 +48,7 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Every Song Is a Website](https://music.significanthobbies.com/) — A playful static site where each of 143 songs gets its own interactive visual world — old desktop, picnic blanket, acid poster, neon night, or scrapbook page — with embedded video and licensed lyrics.
 - [ContextDaddy](https://daddyrad.com/context/) · [GitHub](https://github.com/Significant-Hobbies/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
 - [techdata](https://data.highsignal.app/) — A public, read-only data workbench: Nomad Atlas places, High Signal Podcasts claims, Reddit Insights, Research Papers and the full Product Hunt catalogue in one console with ⌘K search, filters, comparison and provenance-carrying exports.
+- [LinkedIn Archive](https://linkedin.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/linkedin-insights) — Explore insights from your LinkedIn data export in your browser. Choose the extracted export folder; personal archive data stays on your device.
 
 [Project data](https://sassmaker.com/portfolio.json) · [Personal portfolio](https://sarthakagrawal.dev/projects)
 
