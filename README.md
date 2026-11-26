@@ -35,7 +35,6 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [RolePatch](https://rolepatch.com/) · [GitHub](https://github.com/Significant-Hobbies/rolepatch) — A guest resume-tailoring experiment with a reviewable diff and browser-local document exports.
 - [Karte](https://karte.cc/) · [GitHub](https://github.com/Significant-Hobbies/karte) — A creator-owned public profile that answers visitor questions and preserves context for better inbound.
 - [Starboard](https://starboard.codevetter.com/) · [GitHub](https://github.com/Codevetter/starboard) — Explore public GitHub repositories and related projects through a searchable discovery experiment.
-- [Food](https://food.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/food) — Compare packaged food nutrition and find source-linked vegetarian recipes for Indian kitchens.
 - [App Health](https://health.sassmaker.com/) · [GitHub](https://github.com/sass-maker/app-health) — Web analytics, product events, logs, and endpoint health in one workspace.
 - [Web Playables](https://idle.aliveville.com/) · [GitHub](https://github.com/Significant-Hobbies/web-playables) — Small browser-playable game experiments.
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
@@ -45,9 +44,8 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [BrowserDaddy](https://daddyrad.com/browser/) · [GitHub](https://github.com/Significant-Hobbies/browserdaddy) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
 - [PerformanceDaddy](https://daddyrad.com/performance/) · [GitHub](https://github.com/Significant-Hobbies/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
 - [Meme Lab](https://memes.significanthobbies.com/) — A public tool that ranks 3,000 reaction memes for a comment; its Anna review candidate also creates personal photo memes with private saves and PNG downloads.
-- [Every Song Is a Website](https://music.significanthobbies.com/) — A playful static site where each of 143 songs gets its own interactive visual world — old desktop, picnic blanket, acid poster, neon night, or scrapbook page — with embedded video and licensed lyrics.
 - [ContextDaddy](https://daddyrad.com/context/) · [GitHub](https://github.com/Significant-Hobbies/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
-- [techdata](https://data.highsignal.app/) — A public, read-only data workbench: Nomad Atlas places, High Signal Podcasts claims, Reddit Insights, Research Papers and the full Product Hunt catalogue in one console with ⌘K search, filters, comparison and provenance-carrying exports.
+- [techdata](https://data.highsignal.app/) — A public, read-only workbench to search, filter, compare and export source-linked datasets.
 - [LinkedIn Archive](https://linkedin.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/linkedin-insights) — Explore insights from your LinkedIn data export in your browser. Choose the extracted export folder; personal archive data stays on your device.
 
 [Project data](https://sassmaker.com/portfolio.json) · [Personal portfolio](https://sarthakagrawal.dev/projects)
