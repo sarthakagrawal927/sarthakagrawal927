@@ -40,11 +40,8 @@ Selected work from my [SaaS Maker directory](https://sassmaker.com/projects).
 - [Paths](https://paths.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/what-it-takes-to-win) — Explore sourced career turning points with explicit survivorship and forecasting limits.
 - [Sarthak Agrawal](https://sarthakagrawal.dev/) · [GitHub](https://github.com/Significant-Hobbies/portfolio) — Selected engineering case studies, technical writing and working project demonstrations.
 - [Anchor](https://anchor.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/anchor) — A local-first day planner and focus timer for Mac, iPhone, and Apple Watch that explains the gap between the schedule you planned and the day you lived.
-- [storagedaddy](https://daddyrad.com/storage/) · [GitHub](https://github.com/Significant-Hobbies/storagedaddy) — An open-source native Mac storage analyzer for developer caches, builds, dependencies and AI session archives, with reviewed cleanup. Free during early access.
-- [BrowserDaddy](https://daddyrad.com/browser/) · [GitHub](https://github.com/Significant-Hobbies/browserdaddy) — A local-first Mac browsing intelligence app for a unified history archive and real attention tracking.
-- [PerformanceDaddy](https://daddyrad.com/performance/) · [GitHub](https://github.com/Significant-Hobbies/performancedaddy) — A local Mac performance investigator for background apps, helpers and developer workloads, with measured evidence and reviewed actions.
 - [Meme Lab](https://memes.significanthobbies.com/) — A public tool that ranks 3,000 reaction memes for a comment; its Anna review candidate also creates personal photo memes with private saves and PNG downloads.
-- [ContextDaddy](https://daddyrad.com/context/) · [GitHub](https://github.com/Significant-Hobbies/contextdaddy) — A native Mac workspace for coding-agent skills, context, usage and telemetry, with a unified skill library, explicit local changes, and recovery history.
+- [daddyrad](https://daddyrad.com/) — A native Mac workspace for storage cleanup, performance diagnosis, coding agents and browser activity.
 - [techdata](https://data.highsignal.app/) — A public, read-only workbench to search, filter, compare and export source-linked datasets.
 - [LinkedIn Archive](https://linkedin.significanthobbies.com/) · [GitHub](https://github.com/Significant-Hobbies/linkedin-insights) — Explore insights from your LinkedIn data export in your browser. Choose the extracted export folder; personal archive data stays on your device.
 
